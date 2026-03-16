@@ -3,6 +3,7 @@ PochiAI
 A locally-run AI assistant chatbot powered by Llama 3.3 70B Versatile.
 
 > This repository is currently empty. PochiAI is still being developed and is not yet ready for public release.
+> ⚠️ **No memory.** Each conversation starts fresh — prior messages are not retained between sessions, as this runs purely on API calls with no persistent storage.
 
 
 
