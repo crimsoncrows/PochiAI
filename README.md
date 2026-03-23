@@ -22,7 +22,7 @@ Not a substitute for professional advice — consult qualified professionals for
 
 New Features as of March week 2-3
 -Model switching (llama, compound)
--regenerate images
+-regenerate responses (previous)
 -error handling
 
 
