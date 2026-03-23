@@ -17,3 +17,14 @@ Cannot access, retrieve, or discuss sensitive or personal information.
 Text-based responses only — no image or video interaction.
 Follows strict communication guidelines; will not engage with inflammatory, inappropriate, or offensive content.
 Not a substitute for professional advice — consult qualified professionals for personalized guidance.
+
+
+
+New Features as of March week 2-3
+-Model switching (llama, compound)
+-regenerate images
+-error handling
+
+
+Soon (april)
+-image ai generation
