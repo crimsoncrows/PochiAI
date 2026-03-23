@@ -1,4 +1,9 @@
-PochiAI
+simple project by a student learning nlp and ai
+code will not be given
+screenshots only for progress tracking
+
+
+/PochiAI
 [In Development — Local Only]
 A locally-run AI assistant chatbot powered by Llama 3.3 70B Versatile.
 
