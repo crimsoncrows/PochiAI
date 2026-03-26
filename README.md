@@ -33,3 +33,5 @@ New Features as of March week 2-3
 
 Soon (april)
 -image ai generation
+-improved context
+-voice message
