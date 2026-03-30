@@ -53,13 +53,6 @@ A member of the PochiAI family dedicated to image generation.
 - Voice message support
 
 ---
-
-## Progress Screenshots
-
-[<img src="assets/screenshot.png" width="600" />
-](https://github.com/crimsoncrows/PochiAI/blob/main/_K__HTML%2520FILES_PochiAI_main.html%20(1).png?raw=true)
----
-
 ## Technical Notes
 
 Built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools.
