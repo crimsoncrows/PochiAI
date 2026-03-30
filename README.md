@@ -2,6 +2,7 @@ simple project by a student learning nlp and ai
 code will not be given
 screenshots only for progress tracking
 
+PURE JS ONLY, FOR PRACTICING FETCH ASYNC AWAIT
 
 /PochiAI
 [In Development — Local Only]
@@ -35,3 +36,9 @@ Soon (april)
 -image ai generation
 -improved context
 -voice message
+
+
+/NEW Pochi/JPG  as of 03/30
+-Uses HUGGING FACE for image generation.
+-a member of the PochiAI AI family.
+-New PochiAI members to be released soon
